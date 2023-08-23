@@ -1,6 +1,3 @@
 # Javascript-exercises
-<ol>
-  <li>
-    Temparature Converter
-  </li>
-</ol>
+
+- [Temperature Converter](https://github.com/Shohaibur/Javascript-exercises/tree/main/Temperature-converter)
