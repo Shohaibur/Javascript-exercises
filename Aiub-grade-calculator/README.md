@@ -5,7 +5,7 @@
 
 
 - ![alt text](images/input.jpg)
-- ![alt text](images/output-console.jpg)
+- ![alt text](images/output.jpg)
 - ![alt text](images/grading.jpg)
 
 
