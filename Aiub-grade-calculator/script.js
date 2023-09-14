@@ -31,5 +31,5 @@ else if (number >= 0 && number <= 49) {
 }
 else { grade="Invalid Input" }
 
-
+alert("Your grade: " + grade)
 console.log("Your grade: " + grade)
