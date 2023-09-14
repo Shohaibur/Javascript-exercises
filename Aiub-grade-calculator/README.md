@@ -1,6 +1,8 @@
 # Exercise description
 
 - Accept a number from user. (Mark for grading)
-- ![alt text](images/grading.jpg)
+- According to grading system of AIUB , outputs grade as an alert
+
+
 
 
