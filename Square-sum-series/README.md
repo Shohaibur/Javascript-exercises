@@ -6,7 +6,7 @@
 
  ![alt text](images/output.jpg)
 
-- If user inputs anything but number, stops the operation and return "Input must be a number"
+- If user inputs anything but number, stops the operation and return "Input must be a number!"
 
 
   ![alt text](images/inputWrong.jpg)
